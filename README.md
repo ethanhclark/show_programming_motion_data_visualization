@@ -1,1 +1,2 @@
-# show_programming_motion_data_visualization
+# Show Programming Motion Data Visualization Tools
+<p>Python Scripts for calculating RV distance traveled along track curve and vehicle velocity. Custom <strong>traveled_distance</strong> and <strong>velocity</strong> properties created under track curve object and updated every frame. These data properties can be referenced and visualized in Blender 4.2.1 using Geometry Nodes. Python scripts found in <strong>scripts</strong> folder, and a test Blender scene found in <strong>3D_files</strong>. </p>
